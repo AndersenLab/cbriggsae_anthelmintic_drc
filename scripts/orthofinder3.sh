@@ -1,4 +1,4 @@
 #!/bin/bash
 
-# Deposit N2, CGC2, and five C. briggsae wild strain proteomes into folder "orthoFinder"
-orthofinder -f orthoFinder -t 24
+# Folder "../data/proteomes/" contains proteomes used for orthology inference
+orthofinder -f ../data/proteomes -t 24

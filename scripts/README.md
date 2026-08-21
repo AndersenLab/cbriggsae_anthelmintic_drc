@@ -1,4 +1,5 @@
 # **Scripts**
+This directory contains the scripts used to carry out analysis and generate figures and tables for the manuscript.
 - `EC_calculations.R`
 Takes the processed and cleaned animal length data and calculates the estimated effective concentrations (10, 50, and 90), performs effective concentration comparisons between strains within each drug, 
 calculates the slope of Dose Response Curves, performs slope comparisons between strains within each drug, calculates the heritability, and calculates the heritability at each effective concentration. 

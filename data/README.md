@@ -23,7 +23,7 @@ Contains
    - Contains the output from _OrthoFinder_ by Emms et al. 2026 (https://github.com/OrthoFinder/OrthoFinder)
 ## **heritability** 
 Contains the broad-sense and narrow-sense heritability calculation output files from the custom computational pipelines 
-## **heritability** 
+## **filtered_heritability** 
 Contains the broad-sense and narrow-sense heritability calculation output files from the custom computational pipelines using the filtered dataset ( 5 or more wells)
 ## **proteomes** 
 Contains necessary proteomes files for each _Caenorhabditis Briggsae_ strain to run _OrthoFinder_

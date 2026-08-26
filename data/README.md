@@ -7,6 +7,7 @@ data/
 - design_files
 - gene_CNV_analysis
 - heritability
+- filtered_heritability
 - target_gene_consequences
 ## **ECs**
 Contains the estimated effective concentrations output files from the custom computational pipelines 
@@ -22,6 +23,8 @@ Contains
    - Contains the output from _OrthoFinder_ by Emms et al. 2026 (https://github.com/OrthoFinder/OrthoFinder)
 ## **heritability** 
 Contains the broad-sense and narrow-sense heritability calculation output files from the custom computational pipelines 
+## **heritability** 
+Contains the broad-sense and narrow-sense heritability calculation output files from the custom computational pipelines using the filtered dataset ( 5 or more wells)
 ## **proteomes** 
 Contains necessary proteomes files for each _Caenorhabditis Briggsae_ strain to run _OrthoFinder_
 ## **target_gene_consequences** 

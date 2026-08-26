@@ -16,3 +16,5 @@ Slope comparisons between all strains within each drug
 Heritability calculations at effective concentration
 - `Table_7.csv`
 Broad-sense and narrow-sense heritability calculations on filtered data set (only wells greater than or equal to 5)
+- `Table_8.csv`
+Heritability calculations at effective concentration on filtered data set (only wells greater than or equal to 5)
